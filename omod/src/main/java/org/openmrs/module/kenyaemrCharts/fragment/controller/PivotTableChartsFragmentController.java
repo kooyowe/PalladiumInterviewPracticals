@@ -45,7 +45,7 @@ public class PivotTableChartsFragmentController {
 		);
     	myList.add(objHauston);
     	
-		//Denver object
+		// Denver object
     	SimpleObject objDenver = new SimpleObject();
     	SimpleObject.create(
 				"name", "Denver",
@@ -55,7 +55,7 @@ public class PivotTableChartsFragmentController {
 		);
     	myList.add(objDenver);
     	
-		//Addis Ababa
+		// Addis Ababa
     	SimpleObject objAddisAbaba = new SimpleObject();
     	SimpleObject.create(
 				"name", "Addis Ababa",
@@ -65,6 +65,7 @@ public class PivotTableChartsFragmentController {
 		);
     	myList.add(objAddisAbaba);
     	
+		// Add the list variable to the model
     	model.addAttribute("CityObjects", myList);
 
     }
