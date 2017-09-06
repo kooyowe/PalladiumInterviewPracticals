@@ -1,0 +1,2 @@
+# PalladiumInterviewPracticals
+Software Developer Interview
