@@ -5,7 +5,7 @@ package org.openmrs.module.kenyaemrCharts.moduleUtils;
 
 /**
  * @author Koyowe
- * This abstract class is incomplete and you cannot create an instance of it.
+ * This is an incomplete abstract class and you cannot create an instance of it.
  */
 public abstract class AbstractChartProvider {
 	
